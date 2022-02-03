@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "dataAssinatura": "11/01/2021",
+    "mesesVigencia": 12,
+    "mensalidade": 180.0,
+    "cpfAssegurado": "123456756798",
+    "cpfResponsavel": "151819617996",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 0,
+        "nomeAssegurado": "Jorge amado",
+        "emailAssegurado": "jorge@email.com",
+        "telefoneAssegurado": "123456"
+      },
+      {
+        "id": 0,
+        "nomeAssegurado": "Gabriel Braun",
+        "emailAssegurado": "gabriel@email.com",
+        "telefoneAssegurado": "18484848"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 0,
+        "cpf": "123456789",
+        "nome": "Pedro Alcantara"
+      }
+    ]
+  }
+]

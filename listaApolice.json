@@ -1,0 +1,302 @@
+[
+  {
+    "id": 0,
+    "dataAssinatura": "11/01/2021",
+    "mesesVigencia": 12,
+    "mensalidade": 180.0,
+    "cpfAssegurado": "123456756798",
+    "cpfResponsavel": "151819617996",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 0,
+        "nomeAssegurado": "Jorge amado",
+        "emailAssegurado": "jorge@email.com",
+        "telefoneAssegurado": "123456"
+      },
+      {
+        "id": 0,
+        "nomeAssegurado": "Gabriel Braun",
+        "emailAssegurado": "gabriel@email.com",
+        "telefoneAssegurado": "18484848"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 0,
+        "cpf": "123456789",
+        "nome": "Pedro Alcantara"
+      }
+    ]
+  }
+  {
+    "id": 1,
+    "dataAssinatura": "16/05/2021",
+    "mesesVigencia": 11,
+    "mensalidade": 500.0,
+    "cpfAssegurado": "561213357",
+    "cpfResponsavel": "'21142634",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 1,
+        "nomeAssegurado": "Alysson Aguiar",
+        "emailAssegurado": "alysson@email.com",
+        "telefoneAssegurado": "4897456123"
+      },
+      {
+        "id": 1,
+        "nomeAssegurado": "Anderson Silva",
+        "emailAssegurado": "anderson@email.com",
+        "telefoneAssegurado": "4894671235"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 1,
+        "cpf": "21142634",
+        "nome": "Roberto Bastos"
+      }
+    ]
+  } 
+  {
+    "id": 2,
+    "dataAssinatura": "05/12/2021",
+    "mesesVigencia": 8,
+    "mensalidade": 1000.0,
+    "cpfAssegurado": "1243675489",
+    "cpfResponsavel": "092857234",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 2,
+        "nomeAssegurado": "Leonardo Portes",
+        "emailAssegurado": "leonardo@email.com",
+        "telefoneAssegurado": "15648265"
+      },
+      {
+        "id": 2,
+        "nomeAssegurado": "Wanderlei Silva",
+        "emailAssegurado": "wanderlei@email.com",
+        "telefoneAssegurado": "745879142378"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 2,
+        "cpf": "092857234",
+        "nome": "Eduardo Costa"
+      }
+    ]
+  }
+  {
+    "id": 3,
+    "dataAssinatura": "09/09/2021",
+    "mesesVigencia": 5,
+    "mensalidade": 700.0,
+    "cpfAssegurado": "1288133219",
+    "cpfResponsavel": "52617851",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 3,
+        "nomeAssegurado": "Luiz Augusto",
+        "emailAssegurado": "luiz@email.com",
+        "telefoneAssegurado": "123786235253"
+      },
+      {
+        "id": 3,
+        "nomeAssegurado": "Fabiano Da Cunha",
+        "emailAssegurado": "fabiano@email.com",
+        "telefoneAssegurado": "585817"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 3,
+        "cpf": "52617851",
+        "nome": "Mariana Roberta"
+      }
+    ]
+  }
+  {
+    "id": 4,
+    "dataAssinatura": "22/05/2016",
+    "mesesVigencia": 3,
+    "mensalidade": 300.0,
+    "cpfAssegurado": "4363246346",
+    "cpfResponsavel": "8921394243",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 4,
+        "nomeAssegurado": "Michael Jordan",
+        "emailAssegurado": "michael@email.com",
+        "telefoneAssegurado": "4816367124"
+      },
+      {
+        "id": 4,
+        "nomeAssegurado": "Carlos Eduardo",
+        "emailAssegurado": "carlos@email.com",
+        "telefoneAssegurado": "489671276234"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 4,
+        "cpf": "8921394243",
+        "nome": "Paulo Muller"
+      }
+    ]
+  }
+  {
+    "id": 5,
+    "dataAssinatura": "05/01/2017",
+    "mesesVigencia": 7,
+    "mensalidade": 600.0,
+    "cpfAssegurado": "235332514",
+    "cpfResponsavel": "23765421",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 5,
+        "nomeAssegurado": "Luiza Do Nascimento",
+        "emailAssegurado": "luiza@email.com",
+        "telefoneAssegurado": "4896712378123"
+      },
+      {
+        "id": 5,
+        "nomeAssegurado": "Heitor Silva",
+        "emailAssegurado": "heitor@email.com",
+        "telefoneAssegurado": "4896010238"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 5,
+        "cpf": "23765421",
+        "nome": "Tatiane Muller"
+      }
+    ]
+  }
+  {
+    "id": 6,
+    "dataAssinatura": "11/01/2021",
+    "mesesVigencia": 2,
+    "mensalidade": 770.0,
+    "cpfAssegurado": "3678324782",
+    "cpfResponsavel": "34676809623",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 6,
+        "nomeAssegurado": "José Carlos",
+        "emailAssegurado": "jose@email.com",
+        "telefoneAssegurado": "4897673012"
+      },
+      {
+        "id": 0,
+        "nomeAssegurado": "Fagner Silva",
+        "emailAssegurado": "fagner@email.com",
+        "telefoneAssegurado": "4896643641"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 6,
+        "cpf": "34676809623",
+        "nome": "Natália Porto"
+      }
+    ]
+  }
+  {
+    "id": 7,
+    "dataAssinatura": "16/02/2021",
+    "mesesVigencia": 9,
+    "mensalidade": 500.0,
+    "cpfAssegurado": "6347863478",
+    "cpfResponsavel": "67675378123",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 7,
+        "nomeAssegurado": "Felipe Rodrigo",
+        "emailAssegurado": "felipe@email.com",
+        "telefoneAssegurado": "489575722"
+      },
+      {
+        "id": 7,
+        "nomeAssegurado": "Arthur João",
+        "emailAssegurado": "arthur@email.com",
+        "telefoneAssegurado": "489676721"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 7,
+        "cpf": "67675378123",
+        "nome": "Yuri Alberto"
+      }
+    ]
+  }
+  {
+    "id": 8,
+    "dataAssinatura": "07/03/2021",
+    "mesesVigencia": 11,
+    "mensalidade": 980.0,
+    "cpfAssegurado": "572837852",
+    "cpfResponsavel": "1245661245",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 8,
+        "nomeAssegurado": "Filipi Augusto",
+        "emailAssegurado": "filipi@email.com",
+        "telefoneAssegurado": "4896712673"
+      },
+      {
+        "id": 8,
+        "nomeAssegurado": "João Silva",
+        "emailAssegurado": "joao@email.com",
+        "telefoneAssegurado": "48917237123"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 8,
+        "cpf": "1245661245",
+        "nome": "Eduarda Augusta"
+      }
+    ]
+  }
+  {
+    "id": 9,
+    "dataAssinatura": "11/07/2019",
+    "mesesVigencia": 12,
+    "mensalidade": 480.0,
+    "cpfAssegurado": "790123756",
+    "cpfResponsavel": "912759602231",
+    "status": "Ativo",
+    "listaDependente": [
+      {
+        "id": 9,
+        "nomeAssegurado": "Thaíse Paula",
+        "emailAssegurado": "thaise@email.com",
+        "telefoneAssegurado": "4891623651"
+      },
+      {
+        "id": 0,
+        "nomeAssegurado": "Pedro Augusto",
+        "emailAssegurado": "pedro@email.com",
+        "telefoneAssegurado": "48971263674"
+      }
+    ],
+    "listaTitular": [
+      {
+        "id": 9,
+        "cpf": "912759602231",
+        "nome": "Wagner Gutiere"
+      }
+    ]
+  }
+]
